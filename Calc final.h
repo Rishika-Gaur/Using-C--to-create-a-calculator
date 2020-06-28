@@ -1,7 +1,3 @@
-//
-// Created by Anirudh Balasubramanian on 5/14/20.
-//
-
 #ifndef RHYMECALC_CALC_H
 #define RHYMECALC_CALC_H
 
@@ -24,4 +20,4 @@ private:
 };
 
 
-#endif //RHYMECALC_CALC_H
+#endif
